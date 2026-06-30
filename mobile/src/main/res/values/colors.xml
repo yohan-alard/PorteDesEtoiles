@@ -2,4 +2,15 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="space_black">#FF000510</color>
+    <color name="gate_blue">#FF0A3D8C</color>
+    <color name="gate_teal">#FF00C8C8</color>
+    <color name="gate_teal_dim">#FF007878</color>
+    <color name="gate_orange">#FFFF8C00</color>
+    <color name="gate_grey">#FF2A2A3A</color>
+    <color name="gate_text">#FFDDEEFF</color>
+    <color name="gate_text_dim">#FF7899BB</color>
+    <color name="status_bg">#CC000D20</color>
+    <color name="surface_dark">#FF0A0A1A</color>
+    <color name="on_surface">#FFB0C8E0</color>
 </resources>

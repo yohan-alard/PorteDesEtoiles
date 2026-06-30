@@ -1,0 +1,2 @@
+com.example.portedesetoiles.shared
+xml automotive_app_desc

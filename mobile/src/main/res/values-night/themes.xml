@@ -1,7 +1,12 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
-    <!-- Base application theme. -->
-    <style name="Base.Theme.PorteDesEtoiles" parent="Theme.Material3.DayNight.NoActionBar">
-        <!-- Customize your dark theme here. -->
-        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+    <style name="Base.Theme.PorteDesEtoiles" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">@color/gate_teal</item>
+        <item name="colorOnPrimary">@color/space_black</item>
+        <item name="colorSecondary">@color/gate_orange</item>
+        <item name="colorSurface">@color/surface_dark</item>
+        <item name="colorOnSurface">@color/on_surface</item>
+        <item name="android:windowBackground">@color/space_black</item>
+        <item name="android:statusBarColor">@color/space_black</item>
+        <item name="android:navigationBarColor">@color/space_black</item>
     </style>
 </resources>

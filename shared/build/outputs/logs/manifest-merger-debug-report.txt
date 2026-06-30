@@ -1,0 +1,38 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/yalard/IdeaProjects/PorteDesEtoiles/shared/src/main/AndroidManifest.xml:1:1-22:12
+INJECTED from /Users/yalard/IdeaProjects/PorteDesEtoiles/shared/src/main/AndroidManifest.xml:1:1-22:12
+	package
+		INJECTED from /Users/yalard/IdeaProjects/PorteDesEtoiles/shared/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/yalard/IdeaProjects/PorteDesEtoiles/shared/src/main/AndroidManifest.xml:1:11-69
+application
+ADDED from /Users/yalard/IdeaProjects/PorteDesEtoiles/shared/src/main/AndroidManifest.xml:3:5-20:19
+	android:appCategory
+		ADDED from /Users/yalard/IdeaProjects/PorteDesEtoiles/shared/src/main/AndroidManifest.xml:3:18-45
+meta-data#com.google.android.gms.car.application
+ADDED from /Users/yalard/IdeaProjects/PorteDesEtoiles/shared/src/main/AndroidManifest.xml:5:9-7:62
+	android:resource
+		ADDED from /Users/yalard/IdeaProjects/PorteDesEtoiles/shared/src/main/AndroidManifest.xml:7:17-60
+	android:name
+		ADDED from /Users/yalard/IdeaProjects/PorteDesEtoiles/shared/src/main/AndroidManifest.xml:6:17-70
+service#com.example.portedesetoiles.shared.MyMusicService
+ADDED from /Users/yalard/IdeaProjects/PorteDesEtoiles/shared/src/main/AndroidManifest.xml:12:9-18:19
+	android:exported
+		ADDED from /Users/yalard/IdeaProjects/PorteDesEtoiles/shared/src/main/AndroidManifest.xml:14:17-40
+	android:name
+		ADDED from /Users/yalard/IdeaProjects/PorteDesEtoiles/shared/src/main/AndroidManifest.xml:13:17-81
+intent-filter#action:name:android.media.browse.MediaBrowserService
+ADDED from /Users/yalard/IdeaProjects/PorteDesEtoiles/shared/src/main/AndroidManifest.xml:15:13-17:29
+action#android.media.browse.MediaBrowserService
+ADDED from /Users/yalard/IdeaProjects/PorteDesEtoiles/shared/src/main/AndroidManifest.xml:16:17-82
+	android:name
+		ADDED from /Users/yalard/IdeaProjects/PorteDesEtoiles/shared/src/main/AndroidManifest.xml:16:25-80
+uses-sdk
+INJECTED from /Users/yalard/IdeaProjects/PorteDesEtoiles/shared/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/yalard/IdeaProjects/PorteDesEtoiles/shared/src/main/AndroidManifest.xml
+INJECTED from /Users/yalard/IdeaProjects/PorteDesEtoiles/shared/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/yalard/IdeaProjects/PorteDesEtoiles/shared/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/yalard/IdeaProjects/PorteDesEtoiles/shared/src/main/AndroidManifest.xml
